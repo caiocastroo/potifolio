@@ -1,0 +1,94 @@
+  <h1>
+            <p class="text-light">Eleve seu negócio digital a outro</p>
+            <P class="text-success">nivel com um Front-end de</P>
+            <p class="text-success">qualidade!</p>
+
+            <div class="text-center">
+                <img src="img/frontt.jpg" class="rounded float-right img-thumbnail"  alt="img"  >
+             </div>
+
+            <h5 class="text-light">
+                <p>Ola! sou João vitor, desenvolvedor Front-end</p>
+                <p>com especialidade HTML e CSS ajudo</p>
+                <p>com pequenos negocios a colocarem em
+                <p>pratica boas ideias. vamos começar?</p>
+            </h5>
+
+             
+
+            <h3 class="container text-center text-light">
+                Acesse minhas redes:
+            </h3>
+
+
+            <p>
+
+            <div class="container text-center">
+                <p><a class="btn btn-outline-primary" href="https://www.linkedin.com/in/jo%C3%A3o-vitor-souto-307a84246/" target="_blank"><img
+                            src="img/linkedin.png" alt="linkedin"> linkedin</a>
+                </p>
+                <p><a class="btn btn-outline-primary" href="https://github.com/Joaovitors15" target="_blank"><img src="img/github.png" alt="github">
+                        Github</a>
+                </p>
+                <p><a class="btn btn-outline-primary" href="https://www.instagram.com/" target="_blank"><img src="img/instagram.png" alt="instagram" >
+                        Instagram</a>
+                </p>
+            </p>
+            </div>
+
+    </div>
+
+=====================================================================================================
+
+
+
+<h1>
+    <p class="text-light">Eleve seu negócio digital a outro</p>
+    <P class="text-success">nivel com um Front-end de</P>
+    <p class="text-success">qualidade!</p>
+
+    <div class="text-center">
+        <img src="img/frontt.jpg" class="rounded float-right img-thumbnail"  alt="img"  >
+     </div>
+
+    <h5 class="text-light">
+        <p>Ola! sou João vitor, desenvolvedor Front-end</p>
+        <p>com especialidade HTML e CSS ajudo</p>
+        <p>com pequenos negocios a colocarem em
+        <p>pratica boas ideias. vamos começar?</p>
+    </h5>
+
+     
+
+    <h3 class="container text-center text-light">
+        Acesse minhas redes:
+    </h3>
+
+
+    <p>
+
+    <div class="container text-center">
+        <p><a class="btn btn-outline-primary" href="https://www.linkedin.com/in/jo%C3%A3o-vitor-souto-307a84246/" target="_blank"><img
+                    src="img/linkedin.png" alt="linkedin"> linkedin</a>
+        </p>
+        <p><a class="btn btn-outline-primary" href="https://github.com/Joaovitors15" target="_blank"><img src="img/github.png" alt="github">
+                Github</a>
+        </p>
+        <p><a class="btn btn-outline-primary" href="https://www.instagram.com/" target="_blank"><img src="img/instagram.png" alt="instagram" >
+                Instagram</a>
+        </p>
+    </p>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
